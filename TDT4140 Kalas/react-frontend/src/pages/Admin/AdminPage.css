@@ -1,0 +1,15 @@
+.adminPage {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
+.adm {
+  text-decoration: underline;
+  text-align: left;
+}
+
+.table {
+  text-align: left;
+}

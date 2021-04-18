@@ -1,0 +1,20 @@
+.btn {
+  background-color: #4b4b4a;
+  border: none;
+  border-radius: 2px;
+  color: #fff3de;
+  min-width: 100%;
+  min-block-size: 100%;
+  text-align: center;
+  display: inline;
+  font-size: 20px;
+  margin: 10px 10px;
+  cursor: pointer;
+  font-family: "versaler";
+}
+
+.btn:hover {
+  background-color: #fff3de;
+  color: #4b4b4a;
+  border: 2px solid #4b4b4a;
+}
